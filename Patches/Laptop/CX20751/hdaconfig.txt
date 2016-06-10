@@ -1,0 +1,8 @@
+{
+    AFGLowPowerState = <03000000>;
+    Codec = "Conexant - CX20751/2";
+    CodecID = 351359247;
+    ConfigData = <01671c40 01671d10 01671e21 01671f04 01771c10 01771d01 01771e17 01771f90 01971c30 01971d10 01971e81 01971f04 01a71c20 01a71d01 01a71ea0 01a71f90>;
+    FuncGroup = 1;
+    LayoutID = 28;
+}
