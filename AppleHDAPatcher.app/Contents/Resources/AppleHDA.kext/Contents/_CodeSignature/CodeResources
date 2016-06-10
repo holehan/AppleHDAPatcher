@@ -60,7 +60,7 @@
 		</dict>
 		<key>Resources/Platforms.xml.zlib</key>
 		<data>
-		pALDEt7YF+Pbg8XNaNJaJWnCN28=
+		Mbut6jAniYv3fwvNYlEEbXwaVjc=
 		</data>
 		<key>Resources/Spanish.lproj/Localizable.strings</key>
 		<dict>
@@ -193,7 +193,11 @@
 		</data>
 		<key>Resources/layout100.xml.zlib</key>
 		<data>
-		iSEW4OfDP8ZTc1mq4nl8uld6tj8=
+		WPKgTmUoSrgdFHz9QzxIR5ScThk=
+		</data>
+		<key>Resources/layout101.xml.zlib</key>
+		<data>
+		katOUnb0Ean8gej+thI3zb5SFow=
 		</data>
 		<key>Resources/layout107.xml.zlib</key>
 		<data>
@@ -385,11 +389,19 @@
 		</data>
 		<key>Resources/layout51.xml.zlib</key>
 		<data>
-		TxTiQ4HWR+XWH1JcGxvNrVhu1YE=
+		USPzGRUeDVMg+e9/ipfSxwU78LU=
 		</data>
 		<key>Resources/layout53.xml.zlib</key>
 		<data>
 		PL2Lisa9tm0K5aoyBNagvpt/GFg=
+		</data>
+		<key>Resources/layout54.xml.zlib</key>
+		<data>
+		exJE4ZkLwfvNFmK1QMz95WHomMk=
+		</data>
+		<key>Resources/layout55.xml.zlib</key>
+		<data>
+		jtYK3roj9RdwrroDp01Z3S+hivk=
 		</data>
 		<key>Resources/layout56.xml.zlib</key>
 		<data>
@@ -692,7 +704,7 @@
 		</dict>
 		<key>version.plist</key>
 		<data>
-		tEttoS4kfWXjrssGQrTyOpOCGTc=
+		4grw6FB5oSrgJvy74yoIN3TIPko=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -701,7 +713,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			USVodWDUTaL9rF37EZ40UBfyQmU=
+			yk/91uQ3HPsnaEOMxbve88aytS8=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.apple.driver.AppleHDAController" and anchor apple</string>
@@ -710,7 +722,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			4JbazFev/Ytq+kuBkgqY1OwgG+c=
+			Mer4mgpEkXi13OXF51uoyqRbxXg=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.apple.audio.AppleHDAHALPlugIn" and anchor apple</string>
@@ -719,7 +731,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			R4HmA9vNWLd443iDgbn4lG7rzqk=
+			SUO6eFh4uqaj69Tb4P4FFALW/H8=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.apple.driver.AppleHDAHardwareConfigDriver" and anchor apple</string>
@@ -728,7 +740,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			jdDFiA45qd5Mq8YT8iKSQlzjz7I=
+			ZG2P7VP9FoB1ft2VNYtGflCnt/w=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.apple.driver.AppleMikeyDriver" and anchor apple</string>
@@ -737,7 +749,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			N4Awjaj0Fz5FGpmqHMoLRHpD5y0=
+			YPhW46I2m9fBOqKTUIYGdSRx35k=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.apple.driver.DspFuncLib" and anchor apple</string>
@@ -746,7 +758,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			IkmKTlyjUbXcNlghEGz6QjkuVUA=
+			E1mB9kxN+7PIEJTKnJ7DBEYMBH8=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.apple.iokit.IOHDAFamily" and anchor apple</string>
@@ -807,7 +819,7 @@
 		</dict>
 		<key>Resources/Platforms.xml.zlib</key>
 		<data>
-		pALDEt7YF+Pbg8XNaNJaJWnCN28=
+		Mbut6jAniYv3fwvNYlEEbXwaVjc=
 		</data>
 		<key>Resources/Spanish.lproj/Localizable.strings</key>
 		<dict>
@@ -940,7 +952,11 @@
 		</data>
 		<key>Resources/layout100.xml.zlib</key>
 		<data>
-		iSEW4OfDP8ZTc1mq4nl8uld6tj8=
+		WPKgTmUoSrgdFHz9QzxIR5ScThk=
+		</data>
+		<key>Resources/layout101.xml.zlib</key>
+		<data>
+		katOUnb0Ean8gej+thI3zb5SFow=
 		</data>
 		<key>Resources/layout107.xml.zlib</key>
 		<data>
@@ -1132,11 +1148,19 @@
 		</data>
 		<key>Resources/layout51.xml.zlib</key>
 		<data>
-		TxTiQ4HWR+XWH1JcGxvNrVhu1YE=
+		USPzGRUeDVMg+e9/ipfSxwU78LU=
 		</data>
 		<key>Resources/layout53.xml.zlib</key>
 		<data>
 		PL2Lisa9tm0K5aoyBNagvpt/GFg=
+		</data>
+		<key>Resources/layout54.xml.zlib</key>
+		<data>
+		exJE4ZkLwfvNFmK1QMz95WHomMk=
+		</data>
+		<key>Resources/layout55.xml.zlib</key>
+		<data>
+		jtYK3roj9RdwrroDp01Z3S+hivk=
 		</data>
 		<key>Resources/layout56.xml.zlib</key>
 		<data>
@@ -1439,7 +1463,7 @@
 		</dict>
 		<key>version.plist</key>
 		<data>
-		tEttoS4kfWXjrssGQrTyOpOCGTc=
+		4grw6FB5oSrgJvy74yoIN3TIPko=
 		</data>
 	</dict>
 	<key>rules</key>
