@@ -136,3 +136,7 @@
     'VIA VT2021'  => 'ADI 1984',
     'VIA VT1802' => 'ADI 1984', #per Mirone
     );
+mx-d3h, per bcc9
+    	'VIA VT2021'  => 'ADI 1984',
+    	'VIA VT1802' => 'ADI 1984', #per Mirone
+    );
